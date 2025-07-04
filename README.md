@@ -39,19 +39,20 @@ NovaMail is an AI-powered email assistant that helps users draft professional em
   "generatedEmail": "Dear [Recipient], I hope you're doing well. I wanted to follow up regarding our recent interview..."
 }
 ```
- 
 ---
-##💡 Use Cases
+
+## 💡 Use Cases
 - Drafting internship/job application emails
-
 - Writing follow-ups after meetings/interviews
-
 - Automating standard email replies using prompts
-
 - Creating formal business emails instantly
+
 ---
-##📄 License
-This project is licensed under the MIT License.
+
+## 📄 License
+   This project is licensed under the MIT License.
+
 ---
+
 🪐 “Nova” means a star that suddenly becomes brilliantly bright — just like NovaMail, which helps your communication shine.
 
