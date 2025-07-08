@@ -48,6 +48,28 @@ NovaMail is an AI-powered email assistant that helps users draft professional em
 - Creating formal business emails instantly
 
 ---
+---
+
+## 🧩 Chrome Extension
+
+NovaMail includes a Chrome Extension that brings the power of AI-generated emails directly into your browser.
+
+### 🔧 How it Works
+- Highlight any text (e.g., a prompt like "send a thank you email").
+- Click the NovaMail extension icon.
+- A professional email will be generated instantly.
+
+### 🛠️ Setup Instructions
+1. Go to `NovaMail/extension/` folder (in this repo).
+2. In Chrome, open `chrome://extensions/`.
+3. Enable **Developer Mode**.
+4. Click **Load Unpacked** and select the `extension` folder.
+5. Pin the extension and start using it!
+
+> Note: The extension connects to the running NovaMail backend. Make sure the Spring Boot server is up on `http://localhost:8080`.
+
+---
+---
 
 ## 📄 License
    This project is licensed under the MIT License.
